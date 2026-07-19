@@ -1,0 +1,16 @@
+{
+  "name": "Blooper Surfing",
+  "short_name": "Blooper Surfing",
+  "description": "A fun color-mixing game for kids",
+  "start_url": "/blooper-surfing/",
+  "display": "standalone",
+  "theme_color": "#fdf6ee",
+  "background_color": "#fdf6ee",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

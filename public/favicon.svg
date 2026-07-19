@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#4fc3f7"/>
+
+  <!-- Water -->
+  <ellipse cx="256" cy="420" rx="220" ry="60" fill="#29b6f6"/>
+  <ellipse cx="256" cy="430" rx="200" ry="40" fill="#0288d1" opacity="0.4"/>
+
+  <!-- Surfboard -->
+  <ellipse cx="256" cy="390" rx="140" ry="28" fill="#ffeb3b" stroke="#fbc02d" stroke-width="6"/>
+  <line x1="160" y1="390" x2="352" y2="390" stroke="#fbc02d" stroke-width="3" opacity="0.5"/>
+
+  <!-- Blooper body -->
+  <ellipse cx="256" cy="280" rx="80" ry="100" fill="white" stroke="#e0e0e0" stroke-width="4"/>
+
+  <!-- Tentacles -->
+  <path d="M200 350 Q190 400 170 410" stroke="white" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M220 360 Q210 400 200 420" stroke="white" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M256 365 Q256 400 256 430" stroke="white" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M292 360 Q302 400 312 420" stroke="white" stroke-width="16" stroke-linecap="round" fill="none"/>
+  <path d="M312 350 Q322 400 342 410" stroke="white" stroke-width="18" stroke-linecap="round" fill="none"/>
+
+  <!-- Eyes -->
+  <ellipse cx="228" cy="250" rx="22" ry="28" fill="#333"/>
+  <ellipse cx="284" cy="250" rx="22" ry="28" fill="#333"/>
+  <ellipse cx="228" cy="245" rx="14" ry="16" fill="#555"/>
+  <ellipse cx="284" cy="245" rx="14" ry="16" fill="#555"/>
+  <circle cx="232" cy="238" r="6" fill="white"/>
+  <circle cx="288" cy="238" r="6" fill="white"/>
+</svg>
